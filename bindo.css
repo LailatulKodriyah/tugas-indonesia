@@ -1,0 +1,116 @@
+body {
+    background-color: #0C0D4E;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+.container {
+  width: 90%;
+  max-width: 1100px;
+  margin: auto;
+  padding: 20px;
+}
+
+h1 {
+  position:absolute;
+    left: 250px;
+    top: 20px;
+    font-size: 60px;
+}
+
+h2 {
+  position: absolute;
+  font-style: italic;
+  font-size: 30px;
+  margin-top: 90px;
+  left: 290px;
+}
+
+.hero img {
+  position: absolute;
+  left: 630px;
+  top: 240px;
+}
+
+.hero-text {
+  position: absolute;
+  left:80px;
+  top: 220px;
+  font-size: 30px;
+}
+
+.women2 {
+  position: absolute;
+  left: 70px;
+  top: 1800px;
+}
+
+.hoaks {
+  position: absolute;
+  left: 500px;
+  top: 750px;
+  font-size: 40px;
+}
+
+.pnjlsn-hoaks {
+  position: absolute;
+  left:260px;
+  top: 910px;
+  font-size: 30px;
+}
+
+.dampak {
+  position: absolute;
+  left: 500px;
+  top: 1000px;
+  font-size: 40px;
+}
+
+.dampak-hoaks {
+  position: absolute;
+  left:200px;
+  top: 1165px;
+  font-size: 30px;
+}
+
+.cara {
+  position: absolute;
+  left: 450px;
+  top: 1300px;
+  font-size: 40px;
+}
+
+.cara-hindar {
+  position: absolute;
+  left:200px;
+  top: 1460px;
+  font-size: 30px;
+}
+
+.poin-poin {
+  position: absolute;
+  left:680px;
+  top: 1920px;
+  font-size: 40px;
+}
+
+.closing {
+  position: absolute;
+  left:230px;
+  top: 2350px;
+  font-size: 30px;
+}
+
+footer {
+  background-color: white;
+  color:#0C0D4E;             
+  text-align: center;   
+  padding: 4px;    
+  height:30px;        
+  width: 100%;    
+  margin-top: 40px;
+  position: absolute;
+  left: 0px;
+  top: 2400px;    
+}
+
